@@ -1,2 +1,17 @@
+This repo contains a copy of the pidgin-embeddedvideo plugin, copied over from a tarball into github.
+
+However, instead of the mainline (unmaintained version), this contains a modified copy from:
+
+http://geekr.googlecode.com/files/pidgin-embeddedvideo-imageview.tar.gz
+(discovered at http://code.google.com/p/pidgin-embeddedvideo/issues/detail?id=18)
+
+which contains an initial implementation of displaying images within pidgin as well. 
+
+This implementation does not scale the images to the chat window size, so I leave that as a TODO.
+
+============================
+
+original README:
+
 Find everything about this plugin on the project's site:
 http://code.google.com/p/pidgin-embeddedvideo/
