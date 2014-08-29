@@ -11,6 +11,17 @@ This implementation does not scale the images to the chat window size, so I leav
 
 ============================
 
+List of changes from import:
+
+- Modified youtube to parse both http and https youtube urls. Currently, videos are always loaded over http despite parsed url from chat.
+
+TODO changes:
+
+- Add scaling support (to chat window size) for inline image viewing
+- Add more customizable options to the plugin (such as enabling/disabling website parsing) 
+
+============================
+
 original README:
 
 Find everything about this plugin on the project's site:
